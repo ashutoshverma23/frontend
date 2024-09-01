@@ -124,8 +124,8 @@ const TwoColumnCard = () => {
         </div>
         <ul className="text-base text-primary-400 list-inside list-disc dark:text-neutral-200">
           <li>
-            Developed and implemented CMS websites utilizing the MERN stack
-            architecture to create dynamic and interactive web applications
+            Developed and implemented projects utilizing the MERN stack
+            architecture to create dynamic and interactive web applications.
           </li>
           <li>
             Successfully resolved various technical issues for clients,

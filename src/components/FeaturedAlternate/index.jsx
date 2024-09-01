@@ -50,7 +50,7 @@ const projects = [
     image: images.saathi,
     heading: "Saathi - A mental stress detection application",
     description:
-      "One of my frontendmentor.io challenge projects! Had a good one working with this one and enhance my JavaScript and CSS skills.",
+      "<p>Developed a full-stack application using MERN stack to detect mental stress of a person using chat. This project also involves two ML models, which I have created separately and deplyed using flask as a microservice</p>",
     websiteLink: "https://saathi.vercel.app/",
     githubLink: "https://github.com/ashutoshverma23/Saathi",
     // techno
