@@ -20,10 +20,12 @@ export const Form = () => {
       )
       .then(
         (result) => {
+          console.log(result.text);
           setSuccessState(true);
           return result;
         },
         (error) => {
+          console.log("Emailjs error", error.text);
           setErrorState(true);
           return error;
         }
